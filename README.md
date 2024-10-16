@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 I’m currently a student at the University of Queensland completing my Bachelor's of Computer Science and Mathematics!
+
+🔭 My repos mainly consist of my uni projects some of which are private and some personal projects for fun.
 
 <!--
 **farhaan-r/farhaan-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
